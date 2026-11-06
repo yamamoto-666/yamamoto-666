@@ -10,7 +10,7 @@ I'm currently focusing on **PHP, Laravel, database design, and backend developme
 
 ## 🇯🇵 About Me / 自己紹介
 
-日本で約5年間警察官として勤務した後、ITエンジニアへのキャリアチェンジを目指してフィリピン・セブ島で英語とWeb開発を学んでいます。
+ITエンジニアへのキャリアチェンジを目指してフィリピン・セブ島で英語とWeb開発を学んでいます。
 
 現在はPHP・Laravelを中心に、Webアプリケーションの開発、データベース設計、API開発を学習しています。
 
